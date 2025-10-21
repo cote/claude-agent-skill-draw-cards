@@ -4,6 +4,14 @@ To use it, run the `package-skill.sh` scipt. This create a Claude Skill zip file
 
 The skill includes a sub-set of [the public domain Swiss Tarot set](https://en.wikipedia.org/wiki/Swiss_Tarot). 
 
+## Usage
+
+You can tell Claude things like `draw a card from the tarot deck` or `draw three cards from the GMA deck`. Here are some example responses:
+
+![Example of tarot deck card being drawn, The Fool](img/draw-cards-tarot.png)
+
+![Example of GameMaster's Apprentice card being drawn](img/draw-cards-gma-example.png)
+
 ## Adding new card decks
 
 To add other cards, create a sub-directory in `src` with the name you would like and copy the image files there. You can include a README.md file to describe how to use the cards. These do not need to be "cards," of course, and can be any image. You could put in random maps, inspirational pictures, etc.
