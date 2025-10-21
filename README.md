@@ -63,6 +63,8 @@ Unfortunitly, Claude still interprets the cards, using up precious tokens. But, 
 
 ## Author
 
+ChatGPT and Claude were used to write parts of this project at various stages.
+
 See more of my solo roleplaying stuff in the ChatDM projects.
 
 -[Coté](https://cote.io)
